@@ -9,6 +9,10 @@ if (room == rm_game) {
 	}	
 	audio_play_sound(msc_song, 2, true);
 	
+	spawn_off_camera(obj_asteriod, 40)
+	
+	// below replcaed with spawn_off_camera function
+	/*
 	repeat(10) {
 		
 		var xx = choose(
@@ -22,6 +26,7 @@ if (room == rm_game) {
 		
 		instance_create_layer(xx, yy, "Instances", obj_asteriod)
 	}
+	*/
 	
 	alarm[0] = 60;
 	
