@@ -5,6 +5,7 @@
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"snd_die","path":"sounds/snd_die/snd_die.yy",},"order":1,},
     {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},"order":2,},
+    {"id":{"name":"spawn_off_camera","path":"scripts/spawn_off_camera/spawn_off_camera.yy",},"order":0,},
     {"id":{"name":"snd_win","path":"sounds/snd_win/snd_win.yy",},"order":4,},
     {"id":{"name":"spr_asteriod_small","path":"sprites/spr_asteriod_small/spr_asteriod_small.yy",},"order":1,},
     {"id":{"name":"obj_asteriod","path":"objects/obj_asteriod/obj_asteriod.yy",},"order":1,},
